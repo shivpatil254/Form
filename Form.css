@@ -1,0 +1,28 @@
+    body {
+    background-color : #F0EBF8;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color : ;
+    background-color: white;
+    text-align : center;
+    font-family: "SIMPSON";
+}
+
+h4 {
+    color : ;
+    background-color: white;
+    text-align : center;
+    font-family: "SIMPSON";
+}
+p {
+    color : red;
+    text-align : ;
+    font-family: "SIMPSON";
+}
+form {
+    width: 300px;
+    margin: 0 auto;
+}
